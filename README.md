@@ -1,4 +1,7 @@
-# test coverage for  [firebase-tools (v3.6.1)](https://github.com/firebase/firebase-tools)  [![npm package](https://img.shields.io/npm/v/npmtest-firebase-tools.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-firebase-tools) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-firebase-tools.svg)](https://travis-ci.org/npmtest/node-npmtest-firebase-tools)
+# npmtest-firebase-tools
+
+#### test coverage for  [firebase-tools (v3.6.1)](https://github.com/firebase/firebase-tools)  [![npm package](https://img.shields.io/npm/v/npmtest-firebase-tools.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-firebase-tools) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-firebase-tools.svg)](https://travis-ci.org/npmtest/node-npmtest-firebase-tools)
+
 #### Command-Line Interface for Firebase
 
 [![NPM](https://nodei.co/npm/firebase-tools.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/firebase-tools)
