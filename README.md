@@ -1,6 +1,6 @@
 # npmtest-firebase-tools
 
-#### test coverage for  [firebase-tools (v3.6.1)](https://github.com/firebase/firebase-tools)  [![npm package](https://img.shields.io/npm/v/npmtest-firebase-tools.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-firebase-tools) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-firebase-tools.svg)](https://travis-ci.org/npmtest/node-npmtest-firebase-tools)
+#### basic test coverage for  [firebase-tools (v3.6.1)](https://github.com/firebase/firebase-tools)  [![npm package](https://img.shields.io/npm/v/npmtest-firebase-tools.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-firebase-tools) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-firebase-tools.svg)](https://travis-ci.org/npmtest/node-npmtest-firebase-tools)
 
 #### Command-Line Interface for Firebase
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-firebase-tools/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-firebase-tools/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-firebase-tools/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-firebase-tools/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-firebase-tools/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-firebase-tools/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-firebase-tools/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-firebase-tools/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-firebase-tools/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-firebase-tools/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-firebase-tools/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-firebase-tools/build/coverage.html/index.html)
 
